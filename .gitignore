@@ -20,3 +20,12 @@
 # Go workspace file
 go.work
 go.work.sum
+
+/.idea
+/tmp
+
+cover.html
+cover.out
+coverage.out
+result.json
+.DS_Store
